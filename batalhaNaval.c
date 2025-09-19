@@ -121,7 +121,7 @@ int main() {
                 printf("Saindo do jogo...\n");
                 break;
             default:
-                printf("Opcao invalida! Tente novamenteeee.\n");
+                printf("Opcao invalida! Tente novamente.\n");
         }
     } while (escolha != 0);
 
